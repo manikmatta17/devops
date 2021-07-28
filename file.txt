@@ -1,1 +1,3 @@
 This is github , very interesting topic to enter in devops
+
+Adding few parameters for understanding for merge command, pull req
